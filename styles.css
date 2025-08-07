@@ -38,6 +38,12 @@ body {
     margin: 0 auto;
 }
 
+.nav-logo img {
+    height: 40px;
+    max-width: 300px;
+    object-fit: contain;
+}
+
 .nav-logo h2 {
     color: #4C5C6C;
     font-size: 1.5rem;
@@ -749,6 +755,11 @@ body {
 
 /* Responsive Design */
 @media (max-width: 768px) {
+    .nav-logo img {
+        height: 35px;
+        max-width: 250px;
+    }
+    
     .nav-menu {
         display: none;
     }
@@ -818,6 +829,11 @@ body {
 }
 
 @media (max-width: 480px) {
+    .nav-logo img {
+        height: 30px;
+        max-width: 200px;
+    }
+    
     .hero-title {
         font-size: 2rem;
     }
