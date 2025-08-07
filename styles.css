@@ -39,13 +39,13 @@ body {
 }
 
 .nav-logo h2 {
-    color: #2C5F7C;
+    color: #4C5C6C;
     font-size: 1.5rem;
     font-weight: 700;
 }
 
 .nav-logo span {
-    color: #6B7280;
+    color: #333333;
     font-size: 0.9rem;
     display: block;
 }
@@ -64,7 +64,7 @@ body {
 }
 
 .nav-link:hover {
-    color: #2C5F7C;
+    color: #4C5C6C;
 }
 
 .nav-link::after {
@@ -74,7 +74,7 @@ body {
     height: 2px;
     bottom: -5px;
     left: 0;
-    background-color: #2C5F7C;
+    background-color: #4C5C6C;
     transition: width 0.3s ease;
 }
 
@@ -142,12 +142,12 @@ body {
 }
 
 .highlight {
-    color: #2C5F7C;
+    color: #4C5C6C;
 }
 
 .hero-subtitle {
     font-size: 1.25rem;
-    color: #6B7280;
+    color: #333333;
     margin-bottom: 2rem;
     line-height: 1.6;
 }
@@ -159,7 +159,7 @@ body {
 }
 
 .btn-primary {
-    background: #2C5F7C;
+    background: #4C5C6C;
     color: white;
     padding: 1rem 2rem;
     border-radius: 50px;
@@ -205,12 +205,12 @@ body {
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    color: #6B7280;
+    color: #333333;
     font-size: 0.9rem;
 }
 
 .hero-credentials i {
-    color: #2C5F7C;
+    color: #4C5C6C;
 }
 
 .hero-image {
@@ -241,7 +241,7 @@ body {
 
 .section-header p {
     font-size: 1.1rem;
-    color: #6B7280;
+    color: #333333;
     max-width: 600px;
     margin: 0 auto;
 }
@@ -275,7 +275,7 @@ body {
 .card-icon {
     width: 80px;
     height: 80px;
-    background: #2C5F7C;
+    background: #4C5C6C;
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -296,7 +296,7 @@ body {
 }
 
 .procedure-card p {
-    color: #6B7280;
+    color: #333333;
     line-height: 1.6;
 }
 
@@ -322,7 +322,7 @@ body {
 
 .doctor-title {
     font-size: 1.25rem;
-    color: #2C5F7C;
+    color: #4C5C6C;
     font-weight: 600;
     margin-bottom: 2rem;
 }
@@ -343,11 +343,11 @@ body {
     align-items: center;
     gap: 0.75rem;
     margin-bottom: 0.75rem;
-    color: #6B7280;
+    color: #333333;
 }
 
 .credentials i {
-    color: #2C5F7C;
+    color: #4C5C6C;
     width: 20px;
 }
 
@@ -389,7 +389,7 @@ body {
 .benefit-icon {
     width: 60px;
     height: 60px;
-    background: #2C5F7C;
+    background: #4C5C6C;
     border-radius: 15px;
     display: flex;
     align-items: center;
@@ -410,7 +410,7 @@ body {
 }
 
 .benefit-card p {
-    color: #6B7280;
+    color: #333333;
     line-height: 1.6;
 }
 
@@ -453,7 +453,7 @@ body {
 }
 
 .faq-question i {
-    color: #2C5F7C;
+    color: #4C5C6C;
     transition: transform 0.3s ease;
 }
 
@@ -474,7 +474,7 @@ body {
 }
 
 .faq-answer p {
-    color: #6B7280;
+    color: #333333;
     line-height: 1.6;
 }
 
@@ -511,7 +511,7 @@ body {
 .contact-icon {
     width: 50px;
     height: 50px;
-    background: #2C5F7C;
+    background: #4C5C6C;
     border-radius: 12px;
     display: flex;
     align-items: center;
@@ -532,7 +532,7 @@ body {
 }
 
 .contact-card p {
-    color: #6B7280;
+    color: #333333;
     line-height: 1.5;
 }
 
@@ -587,12 +587,12 @@ body {
 .form-group input:focus,
 .form-group textarea:focus {
     outline: none;
-    border-color: #2C5F7C;
+    border-color: #4C5C6C;
     box-shadow: 0 0 0 3px rgba(44, 95, 124, 0.1);
 }
 
 .btn-submit {
-    background: #2C5F7C;
+    background: #4C5C6C;
     color: white;
     padding: 1rem 2rem;
     border: none;
@@ -627,7 +627,7 @@ body {
 .footer-info h3 {
     font-size: 1.25rem;
     margin-bottom: 1rem;
-    color: #2C5F7C;
+    color: #4C5C6C;
 }
 
 .footer-info p {
@@ -640,7 +640,7 @@ body {
 .footer-contact h4 {
     font-size: 1.1rem;
     margin-bottom: 1rem;
-    color: #2C5F7C;
+    color: #4C5C6C;
 }
 
 .footer-links ul {
@@ -677,7 +677,7 @@ body {
     display: inline-block;
     width: 40px;
     height: 40px;
-    background: #2C5F7C;
+    background: #4C5C6C;
     border-radius: 50%;
     text-align: center;
     line-height: 40px;
